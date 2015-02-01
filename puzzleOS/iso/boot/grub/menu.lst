@@ -1,0 +1,6 @@
+default 0
+
+title puzzleOS
+kernel /kernel.elf
+
+module /initrd.img

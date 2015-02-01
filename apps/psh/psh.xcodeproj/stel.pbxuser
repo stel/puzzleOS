@@ -1,0 +1,214 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeTarget = D28A88AD04BDD90700651E21 /* psh */;
+		addToTargets = (
+		);
+		codeSenseManager = E5E242E30FE3D252006D30D1 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					381,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					701,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 266764108;
+			PBXWorkspaceStateSaveDate = 266764108;
+		};
+		perUserProjectItems = {
+			E58011C50FE6D73E009B8355 /* PBXTextBookmark */ = E58011C50FE6D73E009B8355 /* PBXTextBookmark */;
+			E58011C60FE6D73E009B8355 /* PBXTextBookmark */ = E58011C60FE6D73E009B8355 /* PBXTextBookmark */;
+			E58011C70FE6D73E009B8355 /* PBXTextBookmark */ = E58011C70FE6D73E009B8355 /* PBXTextBookmark */;
+			E58011C80FE6D73E009B8355 /* PBXTextBookmark */ = E58011C80FE6D73E009B8355 /* PBXTextBookmark */;
+			E5E242F30FE3D2DE006D30D1 /* PBXTextBookmark */ = E5E242F30FE3D2DE006D30D1 /* PBXTextBookmark */;
+			E5E242F40FE3D2DE006D30D1 /* PBXTextBookmark */ = E5E242F40FE3D2DE006D30D1 /* PBXTextBookmark */;
+			E5E243040FE3D339006D30D1 /* PBXTextBookmark */ = E5E243040FE3D339006D30D1 /* PBXTextBookmark */;
+			E5E243420FE3D68D006D30D1 /* PBXTextBookmark */ = E5E243420FE3D68D006D30D1 /* PBXTextBookmark */;
+			E5E243440FE3D68D006D30D1 /* PBXTextBookmark */ = E5E243440FE3D68D006D30D1 /* PBXTextBookmark */;
+			E5E243470FE3D68D006D30D1 /* PBXTextBookmark */ = E5E243470FE3D68D006D30D1 /* PBXTextBookmark */;
+		};
+		sourceControlManager = E5E242E20FE3D252006D30D1 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	D28A88AD04BDD90700651E21 /* psh */ = {
+		activeExec = 0;
+	};
+	E58011C50FE6D73E009B8355 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E5E242EE0FE3D2C3006D30D1 /* psh.c */;
+		name = "psh.c: 10";
+		rLen = 378;
+		rLoc = 123;
+		rType = 0;
+		vrLen = 480;
+		vrLoc = 21;
+	};
+	E58011C60FE6D73E009B8355 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E5E242EB0FE3D288006D30D1 /* Makefile */;
+		name = "Makefile: 15";
+		rLen = 0;
+		rLoc = 264;
+		rType = 0;
+		vrLen = 501;
+		vrLoc = 0;
+	};
+	E58011C70FE6D73E009B8355 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E5E242EE0FE3D2C3006D30D1 /* psh.c */;
+		name = "psh.c: 10";
+		rLen = 378;
+		rLoc = 123;
+		rType = 0;
+		vrLen = 480;
+		vrLoc = 21;
+	};
+	E58011C80FE6D73E009B8355 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E5E242EB0FE3D288006D30D1 /* Makefile */;
+		name = "Makefile: 1";
+		rLen = 501;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 501;
+		vrLoc = 0;
+	};
+	E5E242E20FE3D252006D30D1 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	E5E242E30FE3D252006D30D1 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	E5E242EB0FE3D288006D30D1 /* Makefile */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {879, 468}}";
+			sepNavSelRange = "{0, 501}";
+			sepNavVisRange = "{0, 501}";
+		};
+	};
+	E5E242ED0FE3D2C3006D30D1 /* psh.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {879, 468}}";
+			sepNavSelRange = "{186, 0}";
+			sepNavVisRange = "{0, 186}";
+		};
+	};
+	E5E242EE0FE3D2C3006D30D1 /* psh.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {879, 518}}";
+			sepNavSelRange = "{123, 378}";
+			sepNavVisRange = "{21, 480}";
+		};
+	};
+	E5E242F30FE3D2DE006D30D1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E5E242EB0FE3D288006D30D1 /* Makefile */;
+		name = "Makefile: 16";
+		rLen = 0;
+		rLoc = 425;
+		rType = 0;
+		vrLen = 378;
+		vrLoc = 46;
+	};
+	E5E242F40FE3D2DE006D30D1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E5E242ED0FE3D2C3006D30D1 /* psh.h */;
+		name = "psh.h: 10";
+		rLen = 0;
+		rLoc = 186;
+		rType = 0;
+		vrLen = 123;
+		vrLoc = 0;
+	};
+	E5E243040FE3D339006D30D1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E5E242EE0FE3D2C3006D30D1 /* psh.c */;
+		name = "psh.c: 16";
+		rLen = 0;
+		rLoc = 501;
+		rType = 0;
+		vrLen = 202;
+		vrLoc = 0;
+	};
+	E5E243420FE3D68D006D30D1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E5E243430FE3D68D006D30D1 /* puzzlestd.c */;
+		name = "puzzlestd.c: 14";
+		rLen = 0;
+		rLoc = 254;
+		rType = 0;
+		vrLen = 578;
+		vrLoc = 0;
+	};
+	E5E243430FE3D68D006D30D1 /* puzzlestd.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = puzzlestd.c;
+		path = /Users/stel/os/puzzlestd/puzzlestd.c;
+		sourceTree = "<absolute>";
+	};
+	E5E243440FE3D68D006D30D1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E5E242ED0FE3D2C3006D30D1 /* psh.h */;
+		name = "psh.h: 16";
+		rLen = 0;
+		rLoc = 186;
+		rType = 0;
+		vrLen = 186;
+		vrLoc = 0;
+	};
+	E5E243470FE3D68D006D30D1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E5E243480FE3D68D006D30D1 /* puzzlestd.c */;
+		name = "puzzlestd.c: 14";
+		rLen = 0;
+		rLoc = 254;
+		rType = 0;
+		vrLen = 578;
+		vrLoc = 0;
+	};
+	E5E243480FE3D68D006D30D1 /* puzzlestd.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = puzzlestd.c;
+		path = /Users/stel/os/puzzlestd/puzzlestd.c;
+		sourceTree = "<absolute>";
+	};
+}
